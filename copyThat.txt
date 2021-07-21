@@ -1,0 +1,13 @@
+client.println("<!DOCTYPE html><html>");
+client.println("<head><meta charset='utf-8' name='viewport' content='width=device-width, initial-scale=1'>");
+client.println("<style>html, body { font-family: Helvetica; display: block; margin: 0px; text-align: left; padding-left: 15px; background-color: rgb(37, 37, 38);}");
+client.println();
+client.println(".button3 { background-color: #14b2b8; border: none; color: white;  width: 200px; padding: 12px 24px;  ");
+client.println("text-decoration: none; font-size: 20px;  cursor: pointer;}");
+client.println();
+client.println("</style></head>");
+client.println();
+client.println();
+client.println("<body><h1 style='color:white;'>Matrix Kontrol</h1>");
+client.println("  <div><a href='/reboot' style='display: block;' ><button class='button3'>Reset Matrix</button></a></div>");
+client.println("</body></html>");
