@@ -11,3 +11,10 @@ Esp8266 tarafından kontrol edilen dot matriste Türkçe karakterlerin görünt�
 - Kart seçimini yapın. Kartınızın tam modelini bilmiyorsanız 'Kart Seçimi.png' dosyasında gösterildiği şekilde yapın, büyük olaslıkla sorun çıkmayacaktır. 
 - Port seçinini yapın.
 - Yükleyin.
+
+### Anahtar kelimeler (Arama motorları ile kolayca bulunabilmesi için)
+- Nodemcu dot matrix Türkçe karakterler
+- Esp8266 dot matrix Türkçe karakterler
+- Nodemcu dot matris Türkçe karakterler
+- Esp8266 dot matris Türkçe karakterler
+
